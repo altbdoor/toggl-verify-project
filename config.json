@@ -1,0 +1,13 @@
+{
+    "token": "find_your_token",
+    "validators": [
+        {
+            "description": "^ABC-200-\\d+",
+            "project_name": "Project ABC"
+        },
+        {
+            "description": "^DEF-\\d+",
+            "project_name": "Project DEF"
+        }
+    ]
+}
